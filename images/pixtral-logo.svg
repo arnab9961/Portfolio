@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
+  <!-- Background -->
+  <rect width="300" height="100" fill="#3c1f0f" />
+  
+  <!-- Pixelated P -->
+  <rect x="20" y="20" width="40" height="60" fill="#ff6b00" />
+  <rect x="60" y="20" width="20" height="20" fill="#ff6b00" />
+  <rect x="60" y="40" width="20" height="20" fill="#ff6b00" />
+  
+  <!-- Text "ixtral" -->
+  <path d="M90 65 L90 25 L100 25 L100 65 Z" fill="#ff6b00" />
+  <path d="M110 65 L110 35 L120 35 L120 65 Z" fill="#ff6b00" />
+  <path d="M130 65 L130 35 L140 35 L140 65 Z M130 35 L140 35 L150 45 L140 45 Z" fill="#ff6b00" />
+  <path d="M160 65 L160 35 L170 35 L170 65 Z M160 35 L180 35 L180 45 L170 45 Z" fill="#ff6b00" />
+  <path d="M190 65 L190 35 L200 35 L200 65 Z M190 35 L210 35 L210 45 L200 45 Z" fill="#ff6b00" />
+  <path d="M220 65 L220 35 L230 35 L230 65 Z M220 35 L240 35 L240 45 L230 45 Z" fill="#ff6b00" />
+  
+  <!-- Text "Large" -->
+  <path d="M90 90 L90 70 L120 70 L120 80 L100 80 L100 90 Z" fill="#ffffff" />
+  <path d="M130 90 L130 70 L150 70 L150 80 L140 80 L140 90 Z" fill="#ffffff" />
+  <path d="M160 90 L160 70 L180 70 L180 90 Z M160 80 L180 80" fill="#ffffff" />
+  <path d="M190 90 L190 70 L210 70 L210 90 Z M190 80 L210 80" fill="#ffffff" />
+  <path d="M220 90 L220 70 L240 70 L240 90 Z M220 80 L240 80" fill="#ffffff" />
+</svg> 

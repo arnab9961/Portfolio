@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80">
+  <!-- Badge background -->
+  <rect width="200" height="80" rx="10" fill="#3c1f0f" />
+  <rect x="5" y="5" width="190" height="70" rx="8" fill="#ff6b00" />
+  
+  <!-- AI icon -->
+  <g transform="translate(20, 20) scale(0.04)">
+    <path d="M500,10C229.4,10,10,229.4,10,500c0,270.6,219.4,490,490,490c270.6,0,490-219.4,490-490C990,229.4,770.6,10,500,10z
+    M500,904.4c-223.2,0-404.4-181.2-404.4-404.4c0-223.2,181.2-404.4,404.4-404.4c223.2,0,404.4,181.2,404.4,404.4
+    C904.4,723.2,723.2,904.4,500,904.4z" fill="#ffffff"/>
+    <path d="M500,202.8c-164.4,0-297.2,132.8-297.2,297.2c0,164.4,132.8,297.2,297.2,297.2c164.4,0,297.2-132.8,297.2-297.2
+    C797.2,335.6,664.4,202.8,500,202.8z M500,712.8c-117.6,0-212.8-95.2-212.8-212.8c0-117.6,95.2-212.8,212.8-212.8
+    c117.6,0,212.8,95.2,212.8,212.8C712.8,617.6,617.6,712.8,500,712.8z" fill="#ffffff"/>
+    <circle cx="500" cy="500" r="127.2" fill="#ffffff"/>
+    <rect x="372.8" y="372.8" width="254.4" height="254.4" fill="#3c1f0f" opacity="0.5"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="60" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#ffffff">AI DEVELOPER</text>
+  <text x="60" y="60" font-family="Arial, sans-serif" font-size="14" fill="#ffcc00">D.M. Raun Bin Masud</text>
+  
+  <!-- Gradient overlay -->
+  <rect width="200" height="80" rx="10" fill="url(#badgeGradient)" opacity="0.2" />
+  
+  <!-- Gradient definitions -->
+  <defs>
+    <linearGradient id="badgeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffcc00;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff6b00;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg> 
